@@ -30,5 +30,9 @@ public class BasePage {
 		
 	}
 	
+	public void test(){
+		System.out.println("remote test method...");
+	}
+	
 
 }
