@@ -18,5 +18,9 @@ public class GooglePage extends BasePage{
 	public void tearDown() {
 		driver.quit();
 	}
+	
+	public void test() {
+		System.out.println("this is test method added at remote");
+	}
 
 }
